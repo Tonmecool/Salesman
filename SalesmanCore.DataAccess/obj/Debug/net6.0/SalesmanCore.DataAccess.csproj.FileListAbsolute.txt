@@ -1,0 +1,14 @@
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\bin\Debug\net6.0\SalesmanCore.DataAccess.deps.json
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\bin\Debug\net6.0\SalesmanCore.DataAccess.runtimeconfig.json
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\bin\Debug\net6.0\SalesmanCore.DataAccess.dll
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\bin\Debug\net6.0\SalesmanCore.DataAccess.pdb
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.AssemblyInfo.cs
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.dll
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\refint\SalesmanCore.DataAccess.dll
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.pdb
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\SalesmanCore.DataAccess.genruntimeconfig.cache
+C:\Users\pogre\Desktop\SalesmanCore\SalesmanCore.DataAccess\obj\Debug\net6.0\ref\SalesmanCore.DataAccess.dll

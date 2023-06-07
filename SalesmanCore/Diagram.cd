@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SalesmanCore.Controls.MatrixGrid" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAgAAAAgAAAAAAAAAAACBAAAAAgIAAAAAIAAAA=</HashCode>
+      <FileName>Controls\MatrixGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Forms.FormAuthorization">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAZAAAAACCAABAIAACABAACAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Forms\FormAuthorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Forms.FormCalc">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIgAAABCAAAACAAAgAAAAEAAAAQBAACA=</HashCode>
+      <FileName>Forms\FormCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Forms.FormMain">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>4TkJComAAjAAhgATExakFQRCoBAgAJAAAASAwBAHABk=</HashCode>
+      <FileName>Forms\FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Forms.FormOpen">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAABAIAACABAAChAAAAAAAAQAAAAACQAA=</HashCode>
+      <FileName>Forms\FormOpen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Forms.FormRegister">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAZAAAAACCAABAIAACABAACAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Forms\FormRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Forms.FormSave">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAEAACAAABAIAACABAACgAAAAIAAAQAEAAACQAA=</HashCode>
+      <FileName>Forms\FormSave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Helpers.HashHelper">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAA=</HashCode>
+      <FileName>Helpers\HashHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.DrawItemsInfo">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAgAAAgAAAAAAAAAABABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawItemsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Geometry">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.GlobalVariables">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQAAAAIAAAAAAAAEEAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalVariables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Program">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.ProjectData">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAABAAAAAAACAAAgAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Rect">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAAABAAAEBAEAAAQAEAAAAAIAAAgCACAAAAIgAA=</HashCode>
+      <FileName>Rect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Helpers.TreeCalc">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAABAAAAAgAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Helpers\TreeCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesmanCore.Helpers.TreeCalcItem">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAYAAAAAABAACAAgAIAACACAARAAACA=</HashCode>
+      <FileName>Helpers\TreeCalcItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SalesmanCore.Enums.TypeStatus">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\TypeStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
